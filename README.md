@@ -1,4 +1,4 @@
-# co6d6447980497dd5775ab78d
+# Poetic Phrase Generator
 
 Quick start:
 
