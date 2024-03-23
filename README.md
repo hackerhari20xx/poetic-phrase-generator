@@ -3,3 +3,5 @@
 - This project is developed using HTML, CSS, and JavaScript.
 - The poetic phrases are rendered using JavaScript.
 - The webpage is personalized with our interests.
+- It changes the look and feel of the webpage based on the user input.
+
