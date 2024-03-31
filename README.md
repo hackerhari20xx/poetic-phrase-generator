@@ -4,5 +4,5 @@
 - The poetic phrases are rendered using JavaScript.
 - The webpage is personalized with our interests.
 - It changes the look and feel of the webpage based on the user input.
-- The background and the poetic phrase is related to the topic given by the user.
+
 
